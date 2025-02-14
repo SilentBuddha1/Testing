@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255619313284",
+    "project_id": "chautari-gces",
+    "storage_bucket": "chautari-gces.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255619313284:android:9d70a31545c3c2ea135cd1",
+        "android_client_info": {
+          "package_name": "com.silent.chautari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDid4-M7knHwZOAV99wvzFiydmJma8DXoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
